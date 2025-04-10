@@ -25,8 +25,10 @@ Thank you to all the contributors for their hard work and dedication to the proj
 # How To Execute
 > [!IMPORTANT]
 > To replicate the experiment, you must download the dataset. [LINK](https://drive.google.com/file/d/19yu5mKhqqOERdkpgN00AI_bNTFgDAB7q/view?usp=sharing)
-> > [!CAUTION]
-> The samples are malware nad you must avoid executing them. If using Colab, be cautious, as it may lead to a ban.
+> We are not responsible if your system gets infected.
+
+> [!CAUTION]
+> The samples are malware and you must avoid executing them. If using Colab, be cautious, as it may lead to a ban.
 
 
 The delivery contains the following files and folders:
@@ -52,3 +54,4 @@ The delivery contains the following files and folders:
     procedures used to train and validate the models and also a feature
     analysis section;
     - **deep_vs_GAMMA_attack.ipynb**: python notebook containing all the procedures used for the GAMMA attacks;
+
